@@ -4,9 +4,9 @@ Welcome to the first Ostrich-Games game. This readme needs to be filled in.
 
 To clone and work on this repo do the following:
 
-1. Download [Git|https://git-scm.com/download/win]
+1. Download [Git](https://git-scm.com/download/win)
 
-2. (Optional) Download [Sourcetree|https://www.sourcetreeapp.com/] this is a gui for the Git workflow
+2. (Optional) Download [Sourcetree](https://www.sourcetreeapp.com/) this is a gui for the Git workflow
     while it is not necessary I recommend it as its a lot easier than using the command line to clone
 	and contribute.
 
