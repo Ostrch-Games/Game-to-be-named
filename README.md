@@ -12,11 +12,17 @@ To clone and work on this repo do the following:
 
 3. Clone the repo, whether by the command line or by adding the repo in sourcetree
 
-4. Download Visual Studio 2017
+4. Download [Visual Studio 2015](https://www.visualstudio.com/vs/older-downloads/)
 
-5. Work away, the git workflow and pull requests are used to upload changes back into this repo. You 
+5. Download [Visual Studio 2015 Update 3](http://go.microsoft.com/fwlink/?LinkId=691129), this is required
+   for Unreal Engine projects.
+  
+6. Speaking of [Unreal Engine](https://www.unrealengine.com/download?dismiss=%2F), download that next.
+
+7. Work away, the git workflow and pull requests are used to upload changes back into this repo. You 
    will not be able to push work straight to the master branch so create a branch and then pull request
-   it into master once your work on the branch has reached an appropriate point.
+   it into master once your work on the branch has reached an appropriate point. - If you want to know
+   more about the git workflow we will be following talk to Reece.
 
 There may be further steps in the future once I initialise the main game loop and sort out using cmake 
 to build the visual studio solution. 
