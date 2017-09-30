@@ -1,0 +1,3 @@
+D:\Documents\Game-to-be-named\OstrichOne\Source\OstrichOne\OstrichOne.Build.cs
+D:\Documents\Game-to-be-named\OstrichOne\Source\OstrichOne.Target.cs
+D:\Documents\Game-to-be-named\OstrichOne\Source\OstrichOneEditor.Target.cs

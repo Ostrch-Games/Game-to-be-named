@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OstrichOne.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Documents\Game-to-be-named\OstrichOne\Intermediate\Build\Win64\UE4Editor\Development\OstrichOne\OstrichOne.cpp.obj"
+"D:\Documents\Game-to-be-named\OstrichOne\Intermediate\Build\Win64\UE4Editor\Development\OstrichOne\TestActor.cpp.obj"
+"D:\Documents\Game-to-be-named\OstrichOne\Intermediate\Build\Win64\UE4Editor\Development\OstrichOne\OstrichOne.init.gen.cpp.obj"
+"D:\Documents\Game-to-be-named\OstrichOne\Intermediate\Build\Win64\UE4Editor\Development\OstrichOne\TestActor.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\OstrichOne\PCLaunch.rc.res"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Documents\Game-to-be-named\OstrichOne\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OstrichOne.lib"

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\OstrichOne.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5E561A4B-4745-4054-803D-5213DE460E95}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OstrichOne.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\OstrichOneEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1E736431-B24D-4ABD-BED0-A0EA0C883FE4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\OstrichOne">
+      <UniqueIdentifier>{8DC54509-6730-4DC4-908D-A456053DD2DF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OstrichOne\OstrichOne.Build.cs">
+      <Filter>Source\OstrichOne</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\OstrichOne\OstrichOne.cpp">
+      <Filter>Source\OstrichOne</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OstrichOne\OstrichOne.h">
+      <Filter>Source\OstrichOne</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OstrichOne\TestActor.cpp">
+      <Filter>Source\OstrichOne</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OstrichOne\TestActor.h">
+      <Filter>Source\OstrichOne</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
